@@ -19,3 +19,6 @@ def drink_list(request):
             return Response(serializer.data, status=HTTPS_201_CREATED)
         
         
+def new_view()
+        
+        
